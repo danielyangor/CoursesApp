@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "286182421641",
+    "project_id": "mycourses-c1847",
+    "storage_bucket": "mycourses-c1847.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286182421641:android:60f86f5e5c476604494258",
+        "android_client_info": {
+          "package_name": "com.danielyan.mycourses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286182421641-ai7otgnp7bm9mik7a7dha2didfumgt95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd0OWWqdFecaWlaslkFIfsl0lQLo6eNJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286182421641-ai7otgnp7bm9mik7a7dha2didfumgt95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
